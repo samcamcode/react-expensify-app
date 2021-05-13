@@ -21,7 +21,7 @@ const store = configureStore();
 //     store.dispatch(setTextFilter('bill'))
 // }, 3000)
 
-const state = store.getState();
+// const state = store.getState();
 // console.log(setVisibleExpenses(state.expenses, state.filters))
 
 // console.log(store.getState());
